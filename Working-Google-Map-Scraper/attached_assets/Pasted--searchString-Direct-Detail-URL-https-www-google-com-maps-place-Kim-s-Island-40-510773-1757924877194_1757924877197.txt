@@ -1,0 +1,287 @@
+{
+    "searchString": "Direct Detail URL: https://www.google.com/maps/place/Kim's+Island/@40.5107736,-74.2482624,17z/data=!4m6!3m5!1s0x89c3ca9c11f90c25:0x6cc8dba851799f09!8m2!3d40.5107736!4d-74.2482624!16s%2Fg%2F1tmgdcj8?hl=en&entry=ttu",
+    "rank": null,
+    "searchPageUrl": null,
+    "searchPageLoadedUrl": null,
+    "isAdvertisement": false,
+    "title": "Kim's Island",
+    "subTitle": null,
+    "description": null,
+    "price": "$10–20",
+    "categoryName": "Chinese restaurant",
+    "address": "175 Main St, Staten Island, NY 10307",
+    "neighborhood": "Tottenville",
+    "street": "175 Main St",
+    "city": "Staten Island",
+    "postalCode": "10307",
+    "state": "New York",
+    "countryCode": "US",
+    "website": "http://kimsislandsi.com/",
+    "phone": "(718) 356-5168",
+    "phoneUnformatted": "+17183565168",
+    "claimThisBusiness": false,
+    "location": {
+        "lat": 40.5107736,
+        "lng": -74.2482624
+    },
+    "locatedIn": null,
+    "plusCode": "GQ62+8M Staten Island, New York",
+    "menu": "http://kimsislandsi.com/",
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJQz5EZzKw4kRCZ95UajbyGw",
+    "categories": ["Chinese restaurant", "Delivery Restaurant"],
+    "fid": "0x89c3ca9c11f90c25:0x6cc8dba851799f09",
+    "cid": "7838756667406262025",
+    "reviewsCount": 91,
+    "reviewsDistribution": {
+        "oneStar": 4,
+        "twoStar": 3,
+        "threeStar": 3,
+        "fourStar": 10,
+        "fiveStar": 71
+    },
+    "imagesCount": 28,
+    "imageCategories": ["All", "Menu", "Food & drink", "Vibe", "By owner", "Street View & 360°"],
+    "scrapedAt": "2024-11-28T12:28:50.519Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "similarHotelsNearby": null,
+    "hotelReviewSummary": null,
+    "hotelAds": [],
+    "openingHours": [
+        {
+            "day": "Monday",
+            "hours": "Closed"
+        },
+        {
+            "day": "Tuesday",
+            "hours": "11 AM to 9:30 PM"
+        },
+        {
+            "day": "Wednesday",
+            "hours": "11 AM to 9:30 PM"
+        },
+        {
+            "day": "Thursday",
+            "hours": "11 AM to 12 AM"
+        },
+        {
+            "day": "Friday",
+            "hours": "12 to 9:30 AM, 11 AM to 10:30 PM"
+        },
+        {
+            "day": "Saturday",
+            "hours": "11 AM to 10:30 PM"
+        },
+        {
+            "day": "Sunday",
+            "hours": "12 to 9:30 PM"
+        }
+    ],
+    "peopleAlsoSearch": [
+        {
+            "category": "People also search for",
+            "title": "Island Kitchen Chinese",
+            "reviewsCount": 70,
+            "totalScore": 3.4
+        },
+        {
+            "category": "People also search for",
+            "title": "New Island",
+            "reviewsCount": 116,
+            "totalScore": 3.9
+        },
+        {
+            "category": "People also search for",
+            "title": "Islander Taste Chinese Restaurant",
+            "reviewsCount": 119,
+            "totalScore": 4.2
+        },
+        {
+            "category": "People also search for",
+            "title": "Kum Fung",
+            "reviewsCount": 168,
+            "totalScore": 3.8
+        }
+    ],
+    "placesTags": [],
+    "reviewsTags": [
+        {
+            "title": "prices",
+            "count": 6
+        },
+        {
+            "title": "delivery",
+            "count": 4
+        },
+        {
+            "title": "spareribs",
+            "count": 3
+        },
+        {
+            "title": "dumpling",
+            "count": 2
+        },
+        {
+            "title": "lo mein",
+            "count": 2
+        }
+    ],
+    "additionalInfo": {
+        "Service options": [
+            {
+                "Takeout": true
+            },
+            {
+                "Dine-in": true
+            }
+        ],
+        "Popular for": [
+            {
+                "Lunch": true
+            },
+            {
+                "Dinner": true
+            },
+            {
+                "Solo dining": true
+            }
+        ],
+        "Accessibility": [
+            {
+                "Wheelchair accessible entrance": true
+            },
+            {
+                "Wheelchair accessible seating": true
+            },
+            {
+                "Assistive hearing loop": false
+            },
+            {
+                "Wheelchair accessible parking lot": false
+            },
+            {
+                "Wheelchair accessible restroom": false
+            }
+        ],
+        "Offerings": [
+            {
+                "Comfort food": true
+            },
+            {
+                "Healthy options": true
+            },
+            {
+                "Quick bite": true
+            },
+            {
+                "Small plates": true
+            }
+        ],
+        "Dining options": [
+            {
+                "Lunch": true
+            },
+            {
+                "Dinner": true
+            }
+        ],
+        "Amenities": [
+            {
+                "Restroom": false
+            }
+        ],
+        "Atmosphere": [
+            {
+                "Casual": true
+            }
+        ],
+        "Planning": [
+            {
+                "Accepts reservations": false
+            }
+        ],
+        "Payments": [
+            {
+                "Credit cards": true
+            },
+            {
+                "Debit cards": true
+            },
+            {
+                "NFC mobile payments": true
+            },
+            {
+                "Credit cards": true
+            }
+        ],
+        "Children": [
+            {
+                "Good for kids": true
+            }
+        ]
+    },
+    "gasPrices": [],
+    "questionsAndAnswers": [],
+    "updatesFromCustomers": null,
+    "ownerUpdates": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kim's%20Island&query_place_id=ChIJJQz5EZzKw4kRCZ95UajbyGw",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMyThXuZMjeiMZfTM42rbJJGm-q54JNzL3xsCn_=w408-h306-k-no",
+    "kgmid": "/g/1tmgdcj8",
+    "webResults": [],
+    "parentPlaceUrl": null,
+    "tableReservationLinks": [],
+    "bookingLinks": [],
+    "orderBy": [
+        {
+            "name": "kimsislandsi.com",
+            "orderUrl": "http://kimsislandsi.com/"
+        }
+    ],
+    "images": [
+        {
+            "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMyThXuZMjeiMZfTM42rbJJGm-q54JNzL3xsCn_=w1920-h1080-k-no",
+            "authorName": "Sebastian Sinisterra (CitySeby)",
+            "authorUrl": "https://maps.google.com/maps/contrib/103237729589375373179",
+            "uploadedAt": "2017-05-30T00:00:00.000Z"
+        }
+    ],
+    "imageUrls": ["https://lh5.googleusercontent.com/p/AF1QipMyThXuZMjeiMZfTM42rbJJGm-q54JNzL3xsCn_=w1920-h1080-k-no"],
+    "reviews": [
+        {
+            "name": "Rocco Castellano",
+            "text": "Excellent  food great service n always  on time",
+            "textTranslated": null,
+            "publishAt": "a month ago",
+            "publishedAtDate": "2024-10-11T01:23:42.544Z",
+            "likesCount": 0,
+            "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURuNV9DVnFRRRAB",
+            "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURuNV9DVnFRRRAB!2m1!1s0x0:0x6cc8dba851799f09!3m1!1s2@1:CIHM0ogKEICAgIDn5_CVqQE%7CCgwInvyhuAYQyOjhgwI%7C?hl=en",
+            "reviewerId": "108813127648936384314",
+            "reviewerUrl": "https://www.google.com/maps/contrib/108813127648936384314?hl=en",
+            "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXRb3lzFb-4SdRMWMlaaECCmdFwULv7bvKKVOK-3mmDcBWyJnY3XQ=s120-c-rp-mo-ba4-br100",
+            "reviewerNumberOfReviews": 74,
+            "isLocalGuide": true,
+            "reviewOrigin": "Google",
+            "stars": 5,
+            "rating": null,
+            "responseFromOwnerDate": null,
+            "responseFromOwnerText": null,
+            "reviewImageUrls": [],
+            "reviewContext": {},
+            "reviewDetailedRating": {
+                "Food": 5,
+                "Service": 5,
+                "Atmosphere": 5
+            }
+        }
+    ],
+    "userPlaceNote": null,
+    "restaurantData": {}
+}
