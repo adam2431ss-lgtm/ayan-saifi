@@ -14,15 +14,8 @@ app.set('trust proxy', 1);
 
 // Middleware
 app.use(helmet());
-// Configure CORS based on environment
-const allowedOrigins = process.env.NODE_ENV === 'production' 
-  ? (process.env.REPLIT_URL ? [`https://${process.env.REPLIT_URL}`] : [])
-  : [`https://${process.env.REPLIT_DEV_DOMAIN}`, 'http://localhost:5000', 'http://0.0.0.0:5000'];
-
-app.use(cors({
-  origin: allowedOrigins,
-  credentials: true
-}));
+// Allow all origins for n8n integration
+app.use(cors());
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ limit: '50mb', extended: true }));
 
@@ -40,24 +33,6 @@ app.get('/health', (req, res) => {
   res.json({ status: 'OK', message: 'Google Maps Scraper API is running' });
 });
 
-// In development, proxy all non-API routes to React dev server
-if (process.env.NODE_ENV !== 'production') {
-  app.use('/', createProxyMiddleware({
-    target: 'http://localhost:5000',
-    changeOrigin: true,
-    ws: true,
-    pathRewrite: {
-      '^/api': '/api', // Keep API routes as-is
-    },
-    router: (req) => {
-      // Only proxy non-API routes to React
-      if (req.path.startsWith('/api') || req.path.startsWith('/health')) {
-        return false; // Don't proxy API routes
-      }
-      return 'http://localhost:5000';
-    },
-  }));
-}
 
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`Server running on http://0.0.0.0:${PORT}`);
