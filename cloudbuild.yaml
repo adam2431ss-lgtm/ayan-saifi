@@ -3,7 +3,7 @@ steps:
   args: [
     'build',
     '-t', 'gcr.io/$PROJECT_ID/google-map-scraper:$COMMIT_SHA',
-    './Working-Google-Map-Scraper/server'
+    './Working-Google-Map-Scraper'
     ]
 images:
 - 'gcr.io/$PROJECT_ID/google-map-scraper:$COMMIT_SHA'
